@@ -3,3 +3,27 @@ git init
 create repository
 
 git remote add Intro https://github.com/kalai-vani-10/Intro.git
+
+git status
+
+git add .
+
+git status
+
+git commit -m "message"
+
+git push --set-upstream Intro master
+
+
+for existing repo
+
+
+git status
+
+git add .
+
+git status
+
+git commit -m "message"
+
+git push

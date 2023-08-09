@@ -24,6 +24,8 @@ git add .
 
 git status
 
+poo d paithiyam
+
 git commit -m "message"
 
 git push
